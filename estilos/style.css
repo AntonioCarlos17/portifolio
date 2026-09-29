@@ -136,7 +136,7 @@ article#video .video-conteiner{
   position: relative;
   width: 100%;
   margin: auto;
-  aspect-ratio: 1/1;
+  aspect-ratio: 16/9;
 }
 
 .video-conteiner{
